@@ -1,0 +1,12 @@
+﻿# Dart / Flutter
+.dart_tool/
+build/
+
+# Local server data
+music_go/server/data/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
